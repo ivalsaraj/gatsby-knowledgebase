@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
-    "gatsby": "^1.9.158",
+    "gatsby": "^5.3.3",
     "gatsby-link": "^1.6.34",
     "gatsby-plugin-catch-links": "^1.0.15",
     "gatsby-plugin-react-helmet": "^2.0.3",
@@ -12,7 +12,7 @@
     "gatsby-remark-copy-linked-files": "^1.5.25",
     "gatsby-remark-images": "^1.5.41",
     "gatsby-remark-prismjs": "^1.2.12",
-    "gatsby-source-filesystem": "^1.5.15",
+    "gatsby-source-filesystem": "^5.3.1",
     "gatsby-transformer-remark": "^1.7.30",
     "mixpanel-browser": "^2.15.0",
     "react-helmet": "^5.2.0",
